@@ -1,28 +1,28 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GBVUGO3YQCFZF7372GK24TC6GEN6FR62WIC6EVTT4RU2SGTV6LQETESA",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
+ORG_NAME="VitaliaX"
+ORG_URL="stellar-vitallia.org"
+ORG_DESCRIPTION="Each VitaliaX Service offers a specialized environment where users can receive highly personalized care at their convenience. By purchasing VitaliaX, individuals can enjoy next-level healthcare solutions in their private, tailored space, ensuring continuous health, vitality, and life extension right at home."
+ORG_LOGO="https://i.ibb.co/wCSHqDw/logo.webp"
 
 [[PRINCIPALS]]
-name=""
+name="Philip E. Stieg"
 
 
 [[CURRENCIES]]
-code=""
+code="VTX"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GBVUGO3YQCFZF7372GK24TC6GEN6FR62WIC6EVTT4RU2SGTV6LQETESA"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="VitaliaX"
+desc="Each VitaliaX Service offers a specialized environment where users can receive highly personalized care at their convenience. By purchasing VitaliaX, individuals can enjoy next-level healthcare solutions in their private, tailored space, ensuring continuous health, vitality, and life extension right at home."
+image="https://i.ibb.co/QpZL7xQ/logo-coin-copy.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
